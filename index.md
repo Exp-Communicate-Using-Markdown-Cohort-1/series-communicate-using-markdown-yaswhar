@@ -6,3 +6,6 @@ heyyy
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+- [ ] Start the business
+- [x] study good
+- [ ] become rich
